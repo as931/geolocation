@@ -93,7 +93,6 @@
 103.202.55.0/24,NL,NL-NH,Amsterdam,1105 AT
 38.255.49.0/24,NL,NL-NH,Amsterdam,1105 AT
 38.255.50.0/24,NL,NL-NH,Amsterdam,1105 AT
-
 # Florida, United States
 # MIA1
 89.37.100.0/24,US,US-FL,Miami,33132
@@ -103,7 +102,6 @@
 64.112.84.0/24,US,US-FL,Miami,33132
 38.255.44.0/24,US,US-FL,Miami,33132
 38.255.45.0/24,US,US-FL,Miami,33132
-
 # London, United Kingdom
 # LON1
 89.36.230.0/24,GB,GB-LND,London,E14 9GE
@@ -128,18 +126,14 @@
 38.255.46.0/24,GB,GB-LND,London,E14 9GE
 38.255.47.0/24,GB,GB-LND,London,E14 9GE
 38.255.48.0/24,GB,GB-LND,London,E14 9GE
-
 # Hong Kong, Hong Kong
 # HKG1
 103.96.80.0/24,HK,,Hong Kong,
 103.131.130.0/24,HK,,Hong Kong,
-
-
 # Tokyo, Japan
 # TYO1
 103.96.81.0/24,JP,JP-13,Tokyo,140-0002
 103.131.131.0/24,JP,JP-13,Tokyo,140-0002
-
 # Sydney, Australia
 # SYD1
 103.96.82.0/24,AU,,Sydney,NSW 2015
