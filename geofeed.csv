@@ -171,3 +171,7 @@
 38.240.45.0/24,US,US-IL,Chicago,60607
 38.240.46.0/24,US,US-IL,Chicago,60607
 38.240.47.0/24,US,US-IL,Chicago,60607
+# Frankfurt, Germany
+# FRA1
+103.199.99.0/24,DE,DE-HE,Frankfurt,60326
+38.240.58.0/24,DE,DE-HE,Frankfurt,60326
