@@ -172,6 +172,9 @@
 38.240.46.0/24,US,US-IL,Chicago,60607
 38.240.47.0/24,US,US-IL,Chicago,60607
 # Frankfurt, Germany
-# FRA1
+# FRA10
 103.199.99.0/24,DE,DE-HE,Frankfurt,60326
 38.240.58.0/24,DE,DE-HE,Frankfurt,60326
+# Toronto, Canada
+# TOR10
+38.240.59.0/24,CA,CA-ON,Toronto,M5A 0G7
