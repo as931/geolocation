@@ -1,0 +1,31 @@
+name: Validate Geofeeds
+
+on:
+  push:
+    branches:
+      - main # Specify the branches you want to trigger this workflow (e.g., 'main').
+
+jobs:
+  validate-geofeeds:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x' # Specify the Python version, e.g., '3.9'
+
+      - name: Install ipdata
+        run: pip install ipdata
+
+      - name: Validate Geofeed 1
+        run: ipdata validate https://geolocation.as931.net/geofeed.csv
+
+      - name: Validate Geofeed 2
+        run: ipdata validate https://geolocation.as931.net/geofeed-google.csv
+
+      - name: Print Output
+        run: echo "Validation of all geofeeds completed. Check the output above."
