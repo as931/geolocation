@@ -1,19 +1,22 @@
-name: Validate Geofeeds After Pages Build
+name: Validate Geofeeds
 
 on:
-  pages:
-    types:
-      - build_deployment # Trigger after a Pages build and deployment.
+  push:
+    branches:
+      - main # Specify the branches you want to trigger this workflow (e.g., 'main').
 
 jobs:
   validate-geofeeds:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Wait for 60 seconds
+        run: sleep 60
+
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
-          python-version: '3.x' # Specify the Python version, e.g., '3.9'
+          python-version: '3.9'
 
       - name: Install ipdata
         run: pip install ipdata
