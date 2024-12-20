@@ -1,18 +1,15 @@
-name: Validate Geofeeds
+name: Validate Geofeeds After Pages Build
 
 on:
-  push:
-    branches:
-      - main # Specify the branches you want to trigger this workflow (e.g., 'main').
+  pages:
+    types:
+      - build_deployment # Trigger after a Pages build and deployment.
 
 jobs:
   validate-geofeeds:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
-        uses: actions/checkout@v3
-
       - name: Set up Python
         uses: actions/setup-python@v4
         with:
