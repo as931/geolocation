@@ -196,3 +196,7 @@
 # TOR10
 38.240.59.0/24,CA,CA-ON,Toronto,M5A 0G7
 178.173.236.0/24,CA,CA-ON,Toronto,M5A 0G7
+# Singapore, Singapore
+# SIN1
+103.144.51.0/24,SG,SG-01,Singapore,
+178.173.239.0/24,SG,SG-01,Singapore,
