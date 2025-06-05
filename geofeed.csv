@@ -96,6 +96,7 @@
 5.226.55.0/24,US,US-NJ,Secaucus,07094
 104.224.31.0/24,US,US-NJ,Secaucus,07094
 188.253.110.0/24,US,US-NJ,Secaucus,07094
+188.253.107.0/24,US,US-NJ,Secaucus,07094
 # Amsterdam, Netherlands
 # AMS1
 103.104.251.0/24,NL,NL-NH,Amsterdam,1105 AT
@@ -160,6 +161,8 @@
 45.87.63.0/24,GB,GB-LND,London,E14 9GE
 185.162.74.0/24,GB,GB-LND,London,E14 9GE
 45.143.144.0/24,GB,GB-LND,London,E14 9GE
+188.253.105.0/24,GB,GB-LND,London,E14 9GE
+188.253.106.0/24,GB,GB-LND,London,E14 9GE
 # Hong Kong, Hong Kong
 # HKG1
 103.96.80.0/24,HK,,Hong Kong,
@@ -168,6 +171,7 @@
 38.240.60.0/24,HK,,Hong Kong,
 188.253.30.0/24,HK,,Hong Kong,
 188.253.111.0/24,HK,,Hong Kong,
+188.253.104.0/24,HK,,Hong Kong,
 # Tokyo, Japan
 # TYO1
 103.96.81.0/24,JP,JP-13,Tokyo,140-0002
