@@ -212,5 +212,8 @@
 178.173.236.0/24,CA,CA-ON,Toronto,M5A 0G7
 # Singapore, Singapore
 # SIN1
-103.144.51.0/24,SG,SG-01,Singapore,
-178.173.239.0/24,SG,SG-01,Singapore,
+103.144.51.0/24,SG,SG-01,Singapore,139963
+178.173.239.0/24,SG,SG-01,Singapore,139963
+# Slough, United Kingdom
+# LON5
+103.142.167.0/24,GB,GB-SLG,Slough,SL1 4AX
