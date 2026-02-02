@@ -261,3 +261,24 @@
 # Seattle, Washington
 # SEA1
 178.173.232.0/24,US,US-WA,Seattle,98121
+# Michigan, United States
+# DET10
+135.84.215.0/24,US,US-MI,Detroit,48226
+# Colorado, United States
+# DEN10
+207.189.23.0/24,US,US-CO,Denver,80202
+# Pennsylvania, United States
+# PIT10
+207.189.20.0/24,US,US-PA,Pittsburgh,15212
+# Arizona, United States
+# PHX10
+207.189.22.0/24,US,US-AZ,Phoenix,85034
+# North Carolina, United States
+# CLT10
+207.189.24.0/24,US,US-NC,Charlotte,28208
+# Oregon, United States
+# PDX10
+207.189.25.0/24,US,US-OR,Portland,97210
+# Dublin, Ireland
+# DUB10
+207.189.21.0/24,IE,IE-D,Dublin,
