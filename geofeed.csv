@@ -305,3 +305,6 @@
 # Nevada, United States
 # LAS10
 135.136.133.0/24,US,US-NV,Las Vegas,89119
+# Utah, United States
+# SLC10
+135.136.144.0/24,US,US-UT,Salt Lake City,84111
