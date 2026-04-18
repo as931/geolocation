@@ -2,8 +2,6 @@
 #This file contains a self-published geofeed as defined in http://tools.ietf.org/html/draft-google-self-published-geofeeds-02
 #Detailed file can be accessed at: http://geolocation.as931.net/geofeed-detailed.csv
 #Contact: noc@krixe.com/noc@hyonix.com
-# California, United States
-# LAX1
 31.216.59.0/24,US,US-CA,Los Angeles,90012
 45.87.61.0/24,US,US-CA,Los Angeles,90012
 64.112.85.0/24,US,US-CA,Los Angeles,90012
@@ -26,8 +24,6 @@
 135.84.209.0/24,US,US-CA,Los Angeles,90012
 135.136.132.0/24,US,US-CA,Los Angeles,90012
 135.136.148.0/24,US,US-CA,Los Angeles,90012
-# Texas, United States
-# DAL1
 5.252.166.0/24,US,US-TX,Dallas,75247
 103.28.70.0/24,US,US-TX,Dallas,75247
 45.87.62.0/24,US,US-TX,Dallas,75247
@@ -49,8 +45,6 @@
 135.136.128.0/24,US,US-TX,Dallas,75207
 135.136.129.0/24,US,US-TX,Dallas,75207
 135.136.146.0/24,US,US-TX,Dallas,75207
-# Ashburn, United States
-# IAD2
 64.112.86.0/24,US,US-VA,Ashburn,20147
 103.104.248.0/24,US,US-VA,Ashburn,20147
 144.172.72.0/24,US,US-VA,Ashburn,20147
@@ -86,8 +80,6 @@
 207.189.17.0/24,US,US-VA,Ashburn,20147
 207.189.18.0/24,US,US-VA,Ashburn,20147
 207.189.19.0/24,US,US-VA,Ashburn,20147
-# New Jersey, United States
-# NYC1
 38.240.63.0/24,US,US-NJ,Secaucus,07094
 103.104.249.0/24,US,US-NJ,Secaucus,07094
 104.224.28.0/24,US,US-NJ,Secaucus,07094
@@ -123,8 +115,6 @@
 207.189.6.0/24,US,US-NJ,Secaucus,07094
 207.189.7.0/24,US,US-NJ,Secaucus,07094
 170.39.186.0/24,US,US-NJ,Secaucus,07094
-# Amsterdam, Netherlands
-# AMS1
 103.104.251.0/24,NL,NL-NH,Amsterdam,1105 AT
 185.147.34.0/24,NL,NL-NH,Amsterdam,1105 AT
 89.37.99.0/24,NL,NL-NH,Amsterdam,1105 AT
@@ -138,8 +128,6 @@
 178.173.234.0/24,NL,NL-NH,Amsterdam,1105 AT
 135.84.211.0/24,NL,NL-NH,Amsterdam,1105 AT
 135.136.134.0/24,NL,NL-NH,Amsterdam,1105 AT
-# Florida, United States
-# MIA1
 89.37.100.0/24,US,US-FL,Miami,33132
 167.94.47.0/24,US,US-FL,Miami,33132
 128.254.192.0/24,US,US-FL,Miami,33132
@@ -148,8 +136,6 @@
 38.255.44.0/24,US,US-FL,Miami,33132
 38.255.45.0/24,US,US-FL,Miami,33132
 135.84.214.0/24,US,US-FL,Miami,33132
-# London, United Kingdom
-# LON1
 103.199.98.0/24,GB,GB-LND,London,E14 9GE
 89.36.230.0/24,GB,GB-LND,London,E14 9GE
 89.35.48.0/24,GB,GB-LND,London,E14 9GE
@@ -212,8 +198,6 @@
 135.136.153.0/24,GB,GB-LND,London,E14 9GE
 135.136.154.0/24,GB,GB-LND,London,E14 9GE
 135.136.155.0/24,GB,GB-LND,London,E14 9GE
-# Hong Kong, Hong Kong
-# HKG1
 103.96.80.0/24,HK,,Hong Kong,
 103.131.130.0/24,HK,,Hong Kong,
 38.240.44.0/24,HK,,Hong Kong,
@@ -221,8 +205,6 @@
 188.253.30.0/24,HK,,Hong Kong,
 188.253.111.0/24,HK,,Hong Kong,
 188.253.104.0/24,HK,,Hong Kong,
-# Tokyo, Japan
-# TYO1
 103.96.81.0/24,JP,JP-13,Tokyo,140-0002
 103.131.131.0/24,JP,JP-13,Tokyo,140-0002
 38.240.40.0/24,JP,JP-13,Tokyo,140-0002
@@ -233,15 +215,11 @@
 207.189.14.0/24,JP,JP-13,Tokyo,140-0002
 207.189.15.0/24,JP,JP-13,Tokyo,140-0002
 135.136.140.0/24,JP,JP-13,Tokyo,140-0002
-# Sydney, Australia
-# SYD1
 103.96.82.0/24,AU,AU-NSW,Sydney,2015
 103.96.83.0/24,AU,AU-NSW,Sydney,2015
 38.240.41.0/24,AU,AU-NSW,Sydney,2015
 38.240.42.0/24,AU,AU-NSW,Sydney,2015
 38.240.43.0/24,AU,AU-NSW,Sydney,2015
-# Chicago, Illinois
-# CHI1
 103.104.250.0/24,US,US-IL,Chicago,60607
 38.240.45.0/24,US,US-IL,Chicago,60607
 38.240.46.0/24,US,US-IL,Chicago,60607
@@ -255,8 +233,6 @@
 207.189.30.0/24,US,US-IL,Chicago,60607
 135.136.130.0/24,US,US-IL,Chicago,60607
 135.136.131.0/24,US,US-IL,Chicago,60607
-# Frankfurt, Germany
-# FRA10
 103.199.99.0/24,DE,DE-HE,Frankfurt,60326
 38.240.58.0/24,DE,DE-HE,Frankfurt,60326
 178.173.237.0/24,DE,DE-HE,Frankfurt,60326
@@ -269,50 +245,24 @@
 135.136.135.0/24,DE,DE-HE,Frankfurt,60326
 135.136.150.0/24,DE,DE-HE,Frankfurt,60326
 135.136.151.0/24,DE,DE-HE,Frankfurt,60326
-# Toronto, Canada
-# TOR10
 38.240.59.0/24,CA,CA-ON,Toronto,M5A 0G7
 178.173.236.0/24,CA,CA-ON,Toronto,M5A 0G7
 207.189.12.0/24,CA,CA-ON,Toronto,M5A 0G7
-# Singapore, Singapore
-# SIN1
 103.144.51.0/24,SG,SG-01,Singapore,139963
 178.173.239.0/24,SG,SG-01,Singapore,139963
 103.141.235.0/24,SG,SG-01,Singapore,139963
 207.189.8.0/24,SG,SG-01,Singapore,139963
 207.189.9.0/24,SG,SG-01,Singapore,139963
 135.136.141.0/24,SG,SG-01,Singapore,139963
-# Slough, United Kingdom
-# LON5
 103.142.167.0/24,GB,GB-SLG,Slough,SL1 4AX
-# Washington, United States
-# SEA1
 178.173.232.0/24,US,US-WA,Seattle,98121
-# Michigan, United States
-# DET10
 135.84.215.0/24,US,US-MI,Detroit,48226
-# Colorado, United States
-# DEN10
 207.189.23.0/24,US,US-CO,Denver,80202
-# Pennsylvania, United States
-# PIT10
 207.189.20.0/24,US,US-PA,Pittsburgh,15212
-# Arizona, United States
-# PHX10
 207.189.22.0/24,US,US-AZ,Phoenix,85034
 135.136.143.0/24,US,US-AZ,Phoenix,85034
-# North Carolina, United States
-# CLT10
 207.189.24.0/24,US,US-NC,Charlotte,28208
-# Bend, United States
-# PDX10
 207.189.25.0/24,US,US-OR,Bend,97702
-# Dublin, Ireland
-# DUB10
 207.189.21.0/24,IE,IE-L,Dublin,
-# Nevada, United States
-# LAS10
 135.136.133.0/24,US,US-NV,Las Vegas,89119
-# Utah, United States
-# SLC10
 135.136.144.0/24,US,US-UT,Salt Lake City,84111
