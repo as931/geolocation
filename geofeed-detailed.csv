@@ -256,6 +256,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 135.84.215.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS399114,48226
 207.189.23.0/24,United States,US,Denver,Colorado,Hyonix,Hyonix,39.7392,-104.9903,AS399114,80202
 207.189.20.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
+135.136.145.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
 207.189.22.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
 135.136.143.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
 207.189.24.0/24,United States,US,Charlotte,North Carolina,Hyonix,Hyonix,35.2271,-80.8431,AS399114,28208
