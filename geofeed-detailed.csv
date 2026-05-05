@@ -21,6 +21,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 135.84.209.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
 135.136.132.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
 135.136.148.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
+135.136.149.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
 5.252.166.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75247
 103.28.70.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75247
 45.87.62.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75247
@@ -42,6 +43,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 135.136.128.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
 135.136.129.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
 135.136.146.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
+207.189.23.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
 64.112.86.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
 103.104.248.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
 144.172.72.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
@@ -196,6 +198,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 135.136.153.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
 135.136.154.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
 135.136.155.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
+135.136.156.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
 103.96.80.0/24,Hong Kong,HK,Hong Kong,New Territories,Hyonix,Hyonix,22.3193,114.1694,AS931,
 103.131.130.0/24,Hong Kong,HK,Hong Kong,New Territories,Hyonix,Hyonix,22.3193,114.1694,AS931,
 38.240.44.0/24,Hong Kong,HK,Hong Kong,New Territories,Hyonix,Hyonix,22.3193,114.1694,AS931,
@@ -231,6 +234,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 207.189.30.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
 135.136.130.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
 135.136.131.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
+135.136.158.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
 103.199.99.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
 38.240.58.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
 178.173.237.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
@@ -255,7 +259,6 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 103.142.167.0/24,United Kingdom,GB,Slough,Slough,Hyonix,Hyonix,51.5105,-0.595,AS931,SL1 4AX
 135.136.142.0/24,United States,US,Seattle,Washington,Hyonix,Hyonix,47.6062,-122.3321,AS931,98121
 135.84.215.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS399114,48226
-207.189.23.0/24,United States,US,Denver,Colorado,Hyonix,Hyonix,39.7392,-104.9903,AS399114,80202
 207.189.20.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
 135.136.145.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
 207.189.22.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
