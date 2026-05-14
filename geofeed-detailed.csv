@@ -258,11 +258,11 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 135.136.141.0/24,Singapore,SG,Singapore,Central Singapore,Hyonix,Hyonix,1.3521,103.8198,AS931,139963
 103.142.167.0/24,United Kingdom,GB,Slough,Slough,Hyonix,Hyonix,51.5105,-0.595,AS931,SL1 4AX
 135.136.142.0/24,United States,US,Seattle,Washington,Hyonix,Hyonix,47.6062,-122.3321,AS931,98121
-135.84.215.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS399114,48226
 207.189.20.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
 135.136.145.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
 207.189.22.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
 135.136.143.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
+135.84.215.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
 207.189.24.0/24,United States,US,Charlotte,North Carolina,Hyonix,Hyonix,35.2271,-80.8431,AS399114,28208
 207.189.25.0/24,United States,US,Bend,Oregon,Hyonix,Hyonix,44.0582,-121.3153,AS399114,97702
 207.189.21.0/24,Ireland,IE,Dublin,Leinster,Hyonix,Hyonix,53.3498,-6.2603,AS399114,
