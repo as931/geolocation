@@ -268,4 +268,31 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 207.189.21.0/24,Ireland,IE,Dublin,Leinster,Hyonix,Hyonix,53.3498,-6.2603,AS399114,
 135.136.133.0/24,United States,US,Las Vegas,Nevada,Hyonix,Hyonix,36.1699,-115.1398,AS399114,89119
 135.136.144.0/24,United States,US,Salt Lake City,Utah,Hyonix,Hyonix,40.768644945538824,-111.8858312,AS399114,84111
-135.135.136.159.0/24,United States,US,Piscataway,New Jersey,Hyonix,Hyonix,40.5571,-74.4847,AS399114,08854
+135.136.159.0/24,United States,US,Piscataway,New Jersey,Hyonix,Hyonix,40.5571,-74.4847,AS399114,08854
+153.52.162.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
+153.52.163.0/24,United States,US,Los Angeles,California,Hyonix,Hyonix,34.0522,-118.2437,AS931,90012
+153.52.160.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
+153.52.161.0/24,United States,US,Dallas,Texas,Hyonix,Hyonix,32.7767,-96.797,AS931,75207
+153.52.180.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
+153.52.181.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
+153.52.168.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
+153.52.169.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
+153.52.178.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
+153.52.179.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
+153.52.164.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
+153.52.165.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
+153.52.166.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
+153.52.167.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
+153.52.170.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
+153.52.171.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
+153.52.176.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
+153.52.177.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
+153.52.173.0/24,Canada,CA,Toronto,Ontario,Hyonix,Hyonix,43.6532,-79.3832,AS931,M5A 0G7
+153.52.172.0/24,Singapore,SG,Singapore,Central Singapore,Hyonix,Hyonix,1.3521,103.8198,AS931,139963
+153.52.174.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
+153.52.175.0/24,United States,US,Pittsburgh,Pennsylvania,Hyonix,Hyonix,40.4406,-79.9959,AS399114,15212
+153.52.182.0/24,United States,US,Phoenix,Arizona,Hyonix,Hyonix,33.4484,-112.074,AS399114,85034
+153.52.183.0/24,United States,US,Bend,Oregon,Hyonix,Hyonix,44.0582,-121.3153,AS399114,97702
+153.52.184.0/24,Ireland,IE,Dublin,Leinster,Hyonix,Hyonix,53.3498,-6.2603,AS399114,
+153.52.185.0/24,United States,US,Salt Lake City,Utah,Hyonix,Hyonix,40.768644945538824,-111.8858312,AS399114,84111
+
