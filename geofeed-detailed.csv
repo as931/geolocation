@@ -277,8 +277,12 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 153.52.181.0/24,United States,US,Ashburn,Virginia,Hyonix,Hyonix,39.0438,-77.4874,AS931,20147
 153.52.168.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
 153.52.169.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
+189.12.224.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
+189.12.225.0/24,United States,US,Secaucus,New Jersey,Hyonix,Hyonix,40.7895,-74.0565,AS931,07094
 153.52.178.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
 153.52.179.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
+189.12.226.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
+189.12.227.0/24,United States,US,Miami,Florida,Hyonix,Hyonix,25.7617,-80.1918,AS931,33132
 153.52.164.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
 153.52.165.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
 153.52.166.0/24,United Kingdom,GB,London,London,Hyonix,Hyonix,51.5074,-0.1278,AS931,E14 9GE
