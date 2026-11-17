@@ -324,6 +324,7 @@ IP Address,Country,Country Code,City,Region,Company or ISP,Organization Name,Lat
 189.12.244.0/24,United States,US,Chicago,Illinois,Hyonix,Hyonix,41.8781,-87.6298,AS931,60607
 189.12.255.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS931,48226
 189.12.254.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS931,48226
+153.52.189.0/24,United States,US,Detroit,Michigan,Hyonix,Hyonix,42.3314,-83.0458,AS931,48226
 153.52.176.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
 153.52.177.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
 189.12.230.0/24,Germany,DE,Frankfurt,Hesse,Hyonix,Hyonix,50.1109,8.6821,AS931,60326
